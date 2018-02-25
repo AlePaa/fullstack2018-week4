@@ -18,8 +18,6 @@ mongoose
   .catch( err => {
     console.log(err)
   })
-console.log("***********************")
-console.log(process.env.NODE_ENV)
 app.use(cors())
 app.use(bodyParser.json())
 app.use(express.static('build'))
