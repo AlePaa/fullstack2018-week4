@@ -1,2 +1,1 @@
-https://git.heroku.com/safe-earth-28451.git
-
+http://safe-earth-28451.herokuapp.com/
